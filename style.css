@@ -1,0 +1,142 @@
+/* style sheet voor andras ze persoonlijke site*/
+
+
+
+h1 {
+	font-family:arial;
+	font-size:20px;
+}
+
+h2 {
+	font-family:arial;
+	font-size:30px;
+	margin-top:3px;
+}
+
+ul {
+	list-style:none;
+	
+}
+
+#wrapper {
+		width:998px;
+		min-height:800px;
+		margin:auto;
+		
+}
+
+#wrapper h1 {
+		margin-left:20px;	
+}
+
+#beschrijving {
+		width:250px;
+		height:80px;
+}
+
+#content {
+		width:998px;
+		min-height:800px;
+}
+
+#hoofd_navigatie {
+		width:998px;
+		height:60px;
+		background-color:black;
+		float:left;
+}
+
+#hoofd_navigatie ul {
+		color:white;
+		list-style:none;
+		font-size:18px;
+		float:right;
+		margin-right:25px;
+		margin-top:18px;
+}
+
+#hoofd_navigatie ul li{
+		display:inline;
+		margin-left:75px;
+}
+
+#hoofd_navigatie ul li a{
+		text-decoration:none;
+		color:white;
+}
+
+#hoofd_navigatie ul li a:hover {
+		color:white;
+		text-decoration:underline;
+		
+}
+
+
+#linker_navigatie {
+		width:200px;
+		min-height:700px;
+		margin-top:7px;
+		float:left;
+		background-color:black;
+}
+
+#linker_navigatie ul {
+		list-style:none;
+		color:white;
+}
+
+#linker_navigatie ul li {
+		margin-top:35px;
+}
+
+#linker_navigatie ul li a {
+		text-decoration:none;
+		color:white;
+		font-size:18px;
+}
+
+#linker_navigatie ul li a:hover {
+		text-decoration:underline;
+}
+
+#inhoud {
+		width:400px;
+		min-height:500px;
+		float:left;
+		margin-left:7px;
+		margin-top:7px;
+		width:787px;
+}
+
+#tekst {
+		width:412px;
+		min-height:480px;
+		float:left;
+		padding:10px;
+}
+
+#tekst ul {
+		padding-left:0px;
+		
+}
+
+
+#plaatje {
+		float:left;
+		width:250px;
+		height:500px;
+}
+
+#plaatje img {
+		width:355px;
+}
+
+.titel_cv {
+		font-weight:bold;
+		text-decoration:underline;
+}
+
+.botton_marge {
+		margin-bottom:15px;
+}
+
